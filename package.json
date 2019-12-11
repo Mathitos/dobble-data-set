@@ -1,0 +1,9 @@
+{
+  "name": "dobble-data-set",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mathitos/dobble-data-set",
+  "author": "Matheus Anzzulin <matheus.c.anzzulin@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
