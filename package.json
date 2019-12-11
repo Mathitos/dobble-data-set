@@ -5,5 +5,8 @@
   "repository": "https://github.com/Mathitos/dobble-data-set",
   "author": "Matheus Anzzulin <matheus.c.anzzulin@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
